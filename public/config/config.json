@@ -10,7 +10,7 @@
   "SYMBOL": "LLC",
   "MAX_SUPPLY": 888,
   "WEI_COST": 12000000000000000000,
-  "DISPLAY_COST": 0.03,
+  "DISPLAY_COST": 12,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/lazyllamaclub",
